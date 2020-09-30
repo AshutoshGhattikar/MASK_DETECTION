@@ -1,2 +1,2 @@
 # MachineLearning
-A repository containing small and medium scale ML projects
+Mask Detection using scikit-learn and computer vision
